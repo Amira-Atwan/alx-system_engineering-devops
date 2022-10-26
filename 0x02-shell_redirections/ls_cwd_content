@@ -1,0 +1,17 @@
+total 68
+drwxrwxr-x 2 vagrant vagrant  4096 Oct 26 07:12 .
+drwxrwxr-x 6 vagrant vagrant  4096 Oct 26 01:56 ..
+-rw-r--r-- 1 vagrant vagrant 12288 Oct 26 06:04 .7-file.swp
+-rwxrw-r-- 1 vagrant vagrant    38 Oct 26 02:09 0-hello_world
+-rwxrw-r-- 1 vagrant vagrant    37 Oct 26 03:05 1-confused_smiley
+-rwxrw-r-- 1 vagrant vagrant    28 Oct 26 03:26 2-hellofile
+-rwxrw-r-- 1 vagrant vagrant    39 Oct 26 03:29 3-twofiles
+-rwxrw-r-- 1 vagrant vagrant    29 Oct 26 03:35 4-lastlines
+-rwxrw-r-- 1 vagrant vagrant    29 Oct 26 03:39 5-firstlines
+-rwxrw-r-- 1 vagrant vagrant    40 Oct 26 04:00 6-third_line
+-rwxrw-r-- 1 vagrant vagrant    99 Oct 26 06:13 7-file
+-rwxrw-r-- 1 vagrant vagrant    36 Oct 26 07:12 8-cwd_state
+-rw-rw-r-- 1 vagrant vagrant    94 Oct 26 01:56 README.md
+-rw-rw-r-- 1 vagrant vagrant    12 Oct 26 06:13 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 vagrant vagrant   745 Oct 26 03:44 iacta
+-rw-rw-r-- 1 vagrant vagrant     0 Oct 26 07:12 ls_cwd_content
